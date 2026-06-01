@@ -1,0 +1,2 @@
+# _2026_05_09_chihlee_python_
+python練習
